@@ -11,8 +11,8 @@ Here you’ll find a collection of projects I’ve completed using **Excel**, **
 An interactive Power BI dashboard for analyzing sales performance by region, product, and sales representative.  
 **Tools:** Power BI, Power Query, DAX  
 **Key Insights:** Identified top-performing products and uncovered opportunities to improve profit margins.  
-📊 [View Dashboard](#) *(link to Power BI Service or add screenshots)*
 
+📊 [View Dashboard].(https://app.powerbi.com/groups/me/reports/5bbe5d5d-dffb-47c7-80b8-34726e236d57/ReportSection637a5c8eab6ac96ab071?experience=power-bi)
 ---
 
 ### 2. [Netflix Analysis](./powerbi_projects/Netflix)
@@ -20,8 +20,9 @@ Cleaned the dataset by trimming blank spaces, handling blanks and repivoting the
 Built a Power BI dashboard on Netflix data showing an overview and single title view. Displayed in overview top 10 genres, shows by rating, shows added by date and countries available in map. For single title view, using a filter for the movie/tv show the release year, rating, countries available and a few details. Visuals containing column chart, bar chart, area chart, maps, cards, slicer and tables.
 
 **Tools:** Power BI, SQL, Excel  
-**Key Insights:** Discovered that the most popular genre is "International Movies", 2019 was the year that added the most shows and movies in 1 year but after that it declined and the country who has the most content available is United States
+**Key Insights:** Discovered that the most popular genre is "International Movies", 2019 was the year that added the most shows and movies in 1 year but after that it declined and the country who has the most content available is United States.
 
+📊 [View Dashboard](#) *(link to Power BI Service or add screenshots)*
 ---
 
 ### 3. [Sales Analysis Dashboard](./powerbi_projects/sales_analysis)
@@ -29,6 +30,7 @@ An sales dashboard analyzing classic model sales - displayed  monthly sales, uni
 **Tools:** SQL, Power BI, DAX  
 **Key Insights:** The highest sales and net profit country is USA, most profitable product line by sales and net profit is "Classic Cars" and Found correlation between high cost and net profit, the higher the cost so is the net profit.
 
+📊 [View Dashboard](#) *(link to Power BI Service or add screenshots)*
 ---
 
 ## 🔵 Tableau Projects
