@@ -1,58 +1,69 @@
 # 📊 Data Analytics Portfolio – Tal Shitrit
 
-Welcome to my **Data Analyst Portfolio**!  
-Here you’ll find a collection of projects I’ve completed using **Excel**, **SQL**, **Power BI** and **Tableau**, showcasing my analytical skills, data visualization capabilities, and business insights.
+Welcome to my **Data Analytics Portfolio**!  
+Here you’ll find a collection of projects I’ve completed using **Excel**, **SQL**, **Power BI**, and **Tableau**, showcasing my analytical thinking, data visualization skills, and business insights.
 
 ---
 
 ## 🟡 Power BI Projects
 
-### 1. [Sales Dashboard](./powerbi_projects/sales_dashboard)
-An interactive Power BI dashboard for analyzing sales performance by region, product, and sales representative.  
-**Tools:** Power BI, Power Query, DAX  
-**Key Insights:** Identified top-performing products and uncovered opportunities to improve profit margins.  
+### 1. [Business Performance Analysis](./powerbi_projects/business_performance_analysis)
+Analyzed business performance for a retail chain, resulting in the development of over 20 KPIs.  
+Transformed raw Excel data into optimized **dimension/fact tables** in **Microsoft SQL Server**, and built five interactive Power BI dashboards covering financial performance, product analytics, shipment costs, and customer behavior.  
+**Tools:** Power BI, DAX, SQL, Excel  
+**Key Insights:** Identified top-performing products and profit opportunities, detected delays in shipment arrivals, and revealed the need to improve customer retention and reduce the average time between orders.  
 
-📊 [View Dashboard].(https://app.powerbi.com/groups/me/reports/5bbe5d5d-dffb-47c7-80b8-34726e236d57/ReportSection637a5c8eab6ac96ab071?experience=power-bi)
+📊 [View Dashboard](https://app.powerbi.com/groups/me/reports/5bbe5d5d-dffb-47c7-80b8-34726e236d57/ReportSection637a5c8eab6ac96ab071?experience=power-bi)
+
 ---
 
-### 2. [Netflix Analysis](./powerbi_projects/Netflix)
-Cleaned the dataset by trimming blank spaces, handling blanks and repivoting the data to be able to split each cast member, director etc into new sheets so they be identified with a unique key. Cleaned data using Excel. Have also analysed data in excel with pivot tables and vlookups.
-Built a Power BI dashboard on Netflix data showing an overview and single title view. Displayed in overview top 10 genres, shows by rating, shows added by date and countries available in map. For single title view, using a filter for the movie/tv show the release year, rating, countries available and a few details. Visuals containing column chart, bar chart, area chart, maps, cards, slicer and tables.
-
+### 2. [Netflix Analysis](./powerbi_projects/netflix)
+Cleaned and transformed Netflix data using Excel (trimming blanks, handling nulls, repivoting, and normalizing data).  
+Built a Power BI dashboard featuring an **overview** (top 10 genres, shows by rating, content by release date and country) and a **single-title view** (details per movie/show).  
+Included visuals such as column, bar, area, and donut charts, maps, cards, slicers, and tables.  
 **Tools:** Power BI, SQL, Excel  
-**Key Insights:** Discovered that the most popular genre is "International Movies", 2019 was the year that added the most shows and movies in 1 year but after that it declined and the country who has the most content available is United States.
+**Key Insights:** Found that *“International Movies”* is the most common genre, 2019 had the highest number of releases, and the **United States** hosts the largest Netflix content library.  
 
-📊 [View Dashboard](#) *(link to Power BI Service or add screenshots)*
+📊 [View Dashboard](https://app.powerbi.com/groups/me/reports/fe94be4c-942d-4efb-8cc5-faa99966e5ff/76755314a3f4da2aa278?experience=power-bi)
+
 ---
 
 ### 3. [Sales Analysis Dashboard](./powerbi_projects/sales_analysis)
-An sales dashboard analyzing classic model sales - displayed  monthly sales, unique orders, average value of each order and sales and net profit buttons to switch between sales and net profit. Visuals including column charts, donut chart, bar chart and scatted plot as well as line charts, kpi cards and decomposition tree 
+Created an interactive sales dashboard analyzing *classic model* performance, showing monthly sales, unique orders, average order value, and dynamic toggles between **Sales** and **Net Profit** views.  
+Included visuals such as column charts, bar charts, scatter plots, KPIs, donut charts, line charts, and a decomposition tree.  
 **Tools:** SQL, Power BI, DAX  
-**Key Insights:** The highest sales and net profit country is USA, most profitable product line by sales and net profit is "Classic Cars" and Found correlation between high cost and net profit, the higher the cost so is the net profit.
+**Key Insights:**  
+- The **USA** achieved the highest sales and profit.  
+- The most profitable product line was **Classic Cars**.  
+- Found a strong positive correlation between *cost of sales* and *net profit* — as cost increases, so does profit.
 
-📊 [View Dashboard](#) *(link to Power BI Service or add screenshots)*
+📊 [View Dashboard](https://app.powerbi.com/groups/me/reports/49ff2555-e192-4b4b-9186-f00ba29da17b/875a927d40705ebb6f91?experience=power-bi)
+
 ---
 
 ## 🔵 Tableau Projects
 
 ### 1. [Electric Vehicle Dashboard](./tableau_projects/electric_vehicle)
-Washington electric vehicles dashboard in Tableau analyzing top 10 counties, make and model vehicle amounts, divertion between vehicle type, model year and vehicles owned by postcode for chosen make. Added column charts, donut chart, bar chart, map as well as parameter filters. 
+Developed a Tableau dashboard analyzing **electric vehicle registrations in Washington State**, showing top 10 counties, make and model breakdowns, vehicle types, model years, and ownership by ZIP code.  
+Included column, bar, donut charts, maps, and parameter filters for interactivity.  
 **Tools:** Tableau, Excel  
-📊 [View on Tableau Public][(#)](https://public.tableau.com/app/profile/tal.shitrit/viz/ElectricCarsDashboard_17626954095670/Dashboard1)
+📊 [View on Tableau Public](https://public.tableau.com/app/profile/tal.shitrit/viz/ElectricCarsDashboard_17626954095670/Dashboard1)
 
 ---
 
 ### 2. [Bike Sales Analysis](./tableau_projects/bike_sales_analysis)
-A bike sales analysis dashboard visualizing for chosen year, top 10 products sold by quantity, product category saled by gender. sales by age group and product subcategory and sales by country as well profit, YoY% change and revanue     
+Built a Tableau dashboard analyzing **bike sales performance**, allowing users to filter by year.  
+Visualized top 10 products by quantity sold, category and gender sales breakdowns, sales by age group, and product subcategory profitability.  
+Included KPIs for YoY% change, revenue, and profit.  
 **Tools:** Tableau, Excel  
-📊 [View on Tableau Public][(#)](https://public.tableau.com/app/profile/tal.shitrit/viz/BikeSalesDashboard_17627113519980/SalesDashboard?publish=yes)
+📊 [View on Tableau Public](https://public.tableau.com/app/profile/tal.shitrit/viz/BikeSalesDashboard_17627113519980/SalesDashboard?publish=yes)
 
 ---
 
 ## 🧰 Skills & Tools
 
 **Languages & Tools:**  
-Power BI | Tableau | SQL | Excel | Python | | DAX | Power Query | 
+Power BI | Tableau | SQL | Excel | Python | DAX | Power Query  
 
 **Focus Areas:**  
 Data Cleaning | Data Visualization | Business Intelligence | Dashboard Design | Insight Communication
@@ -62,8 +73,7 @@ Data Cleaning | Data Visualization | Business Intelligence | Dashboard Design | 
 ## 📬 Contact
 
 📧 **Email:** talshitrit212@gmail.com  
-💼 **LinkedIn:** [[linkedin.com/in/tal-shitrit](#)  ](http://www.linkedin.com/in/talshitrit)
-
+💼 **LinkedIn:** [linkedin.com/in/tal-shitrit](http://www.linkedin.com/in/talshitrit)
 
 ---
 
